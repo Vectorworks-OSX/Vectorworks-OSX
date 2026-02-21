@@ -40,12 +40,6 @@ Multi-discipline integration through collaboration tools enables team coordinati
 
 ---
 
-<p align="center">
-  <img src="https://static.macupdate.com/screenshots/284384/m/vectorworks-screenshot.png?v=1605813988" alt="Vectorworks screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 Vectorworks distinguishes itself through comprehensive CAD tools beyond generic software. Unlike basic CAD, industry-specific features serve architecture and entertainment design requirements.
